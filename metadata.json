@@ -1,0 +1,6 @@
+{
+  "name": "HexPick - Color Picker & 1-Click Hex Copier",
+  "description": "Pemilih warna interaktif profesional dengan fitur salin kode warna HEX sekali klik, generator harmoni warna, skala shade & tint, serta penguji kontras WCAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
