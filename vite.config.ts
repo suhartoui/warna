@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: 'github.com/suhartoui/warna',
+    base: '/warna/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
